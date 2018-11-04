@@ -3,6 +3,7 @@ bazel-*
 test-project-host-*
 dist/
 dist-schema/
+target/
 
 # IDEs
 .idea/
